@@ -1,4 +1,4 @@
-# Hi, I'm Arushi Anand 👋
+# Hi, I'm Arushi Anand 
 
 **Full Stack Developer** | JavaScript Ecosystem (React.js · Next.js · Node.js · Express.js · MongoDB)
 
